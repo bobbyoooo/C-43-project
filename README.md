@@ -1,2 +1,2 @@
-# C-43-project
-it is my project
+# p5.play-boilerplate
+Boiler plate for p5.play
